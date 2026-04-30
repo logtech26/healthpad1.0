@@ -9,8 +9,8 @@
 
 
 # env/environment files
-/env
-/environment
+/src/env
+/src/environment
 
 # Node
 /node_modules
